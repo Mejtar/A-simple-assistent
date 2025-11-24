@@ -15,6 +15,10 @@ Su versión soft (avanzada y adaptativa)
 
 El chart de eficiencia cognitiva
 
+¿Cual te recomiendo?
+
+Usa la versión soft, si solo quieres tantearlo y la versión original si eres usuario avanzado
+
 Ejemplos de uso
 
 Guía para implementarlo en ChatGPT, Grok, DeepSeek, Claude o modelos locales (Ollama / llama.cpp / LM Studio)
