@@ -11,6 +11,8 @@ Acá vas a encontrar:
 
 El system prompt completo
 
+Su versión soft (avanzada y adaptativa)
+
 El chart de eficiencia cognitiva
 
 Ejemplos de uso
